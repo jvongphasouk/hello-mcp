@@ -2,10 +2,15 @@
 
 ## Installation 
 
-python3 -m venv .venv 
-source .venv/bin/activate  (for windows .venv\Scripts\activate)
-pip install -r requirements.txt
+`python3 -m venv .venv`
+
+`source .venv/bin/activate`
+
+for windows 
+`.venv\Scripts\activate`
+
+`pip install -r requirements.txt`
 
 ## Run the server 
 
-pyhton server.py
+`python server.py`
